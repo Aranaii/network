@@ -1,4 +1,4 @@
-# Android курс. Navigation and app architecture
+# Android курс. Network
 ### Группа: 1370
 ### Студентка: Авдюхина Екатерина
 ### Результаты Unit 4:
